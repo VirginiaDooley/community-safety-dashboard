@@ -1,6 +1,6 @@
 # Community Safety Dashboard for Kensington and Chelsea
 An interactive dashboard showing crime trends by type, time period, and location for community safety planning.
-Because crime does not exist in isolation, I would like to compare this data with other data sources such as community investment and social services data, and other relevant data sources to provide a more comprehensive view of community safety. This data is currently limited to September 2024 but I would like to expand this to include previous months and years to provide a more comprehensive view of trends.
+Because crime does not exist in isolation, I would like to compare this data with other data sources such as community investment and social services data, and other relevant data sources to provide a more comprehensive view of community safety. This data is currently limited to 2024 but I would like to expand this to include previous years to provide a more comprehensive view of trends.
 
 Data source: UK Police Data API (https://data.police.uk/docs/)
 
