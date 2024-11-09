@@ -14,3 +14,14 @@ To run this project locally, you will need to install the required packages usin
 ```
 pip install -r requirements.txt
 ```
+
+## Conclusions from the data: 
+
+Violent and sexual offenses are the most prevalent type of crime in Kensington and Chelsea, with the highest number of incidents occurring in August.
+
+There are a couple of notable geographical gaps in crime data (such as the area west of Holland Park), which may be due to underreporting or other factors. This is an area for further investigation.
+
+## Next steps:
+
+- Expand the data to include previous years to provide a more comprehensive view of trends
+- Compare crime data with other data sources such as community investment and social services data
