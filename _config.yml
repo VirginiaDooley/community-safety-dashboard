@@ -1,5 +1,19 @@
-title: Community Safety Dashboard
-description: A dashboard to monitor community safety metrics.
-baseurl: "/community-safety-dashboard" 
-url: "https://virginiadooley.github.io"
-github_username: virginiadooley
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Build and deploy to GitHub Pages
+      uses: VirginiaDooley/github-pages-deploy-action@v4
+      with:
+        branch: main
