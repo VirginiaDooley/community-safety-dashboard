@@ -1,4 +1,4 @@
-# Community Safety Dashboard for Kensington and Chelsea
+# (WIP) Community Safety Dashboard for Kensington and Chelsea
 An interactive dashboard showing crime trends by type, time period, and location for community safety planning.
 Because crime does not exist in isolation, I would like to compare this data with other data sources such as community investment and social services data, and other relevant data sources to provide a more comprehensive view of community safety. This data is currently limited to 2024 but I would like to expand this to include previous years to provide a more comprehensive view of trends.
 
@@ -25,3 +25,4 @@ There are a couple of notable geographical gaps in crime data (such as the area 
 
 - Expand the data to include previous years to provide a more comprehensive view of trends
 - Compare crime data with other data sources such as community investment and social services data
+- Investigate geographical gaps in crime data to understand the underlying factors
